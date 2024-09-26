@@ -1,0 +1,21 @@
+{
+  "name": "order-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "amqplib": "^0.10.4",
+    "cors": "^2.8.5",
+<<<<<<< HEAD
+    "dotenv": "^16.4.5",
+=======
+>>>>>>> 967308193ec77b27a7ca91bb65f5f747d30a59ba
+    "express": "^4.19.2"
+  }
+}
